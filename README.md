@@ -1,2 +1,2 @@
-# Solicitud-Cotizaci-n
+# Solicitud-Cotizacion
 Solicitud Cotización
