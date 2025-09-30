@@ -1,0 +1,32 @@
+{
+  "telegram_token": "7774039555:AAHtBkiFrXekoY2dMY4xHo3v3YQstnga130",
+  "owner_name": "BitStation",
+  "google_api_key": "AIzaSyCBIxN00lTZwVIPIGmOyxhbl1OyeyTGC08",
+  "smtp": {
+    "server": "smtp.gmail.com",
+    "port": 587,
+    "email": "hola.printhouse@gmail.com",
+    "password": "ruyturobtooyrtvf"
+  },
+  "pdf": {
+    "margin_mm": 15
+  },
+  "pdf_dir": "",
+  "access": {
+    "mode": "off",
+    "whitelist": [],
+    "blacklist": []
+  },
+  "pricing_detection": "auto",
+  "company": {
+    "address": "Carrer de la Glòria, 7, Etl. 3ª",
+    "cif": "B-63.136.030",
+    "phone": "+34 934 19 35 87",
+    "email": "baladapack@gmail.com",
+    "web": "baladapack.es"
+  },
+  "validity_days": 3,
+  "doc": {
+    "last_id": 1
+  }
+}
